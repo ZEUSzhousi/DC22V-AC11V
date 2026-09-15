@@ -48,7 +48,6 @@ R82分压加R83分压再接运放得电压倍数 34
 上桥下桥靠2104驱动四个mos管输出交流电压
 二极管快速拉低G S电压
 电阻消耗寄生电容电压
-<img width="3072" height="4080" alt="IMG_20260427_205225" src="https://github.com/user-attachments/assets/160e2387-617e-43ef-9d46-0004612fa81c" />
 
 <img width="824" height="220" alt="image" src="https://github.com/user-attachments/assets/25e41623-90ce-4710-b97a-eccc5596ad5a" />
 
